@@ -1,0 +1,3 @@
+interface interfaceE {
+    void print();
+}
